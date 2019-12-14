@@ -1,4 +1,5 @@
-# cicdwithjenkinsspa
+# CICD with Jenkins SPA
+Just an SPA made with vue to be CICDed with Jenkins
 
 ## Project setup
 ```
@@ -14,6 +15,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
